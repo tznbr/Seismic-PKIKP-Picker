@@ -24,10 +24,10 @@ Unlike "Black Box" deep learning, our model relies on engineered physical featur
 
 ## 📁 Repository Contents
 - `Seismic_Profiling.ipynb`: Complete Google Colab pipeline including data cleaning, model tournament, and final benchmarking.
-- `/data`: The training and testing datasets derived from 300,000 synthetic waveforms mixed with real-world ambient noise.
-- `/paper`: The original JGR Solid Earth research paper that served as our benchmark.
+- `Dropboc link`: The training and testing datasets derived from 300,000 synthetic waveforms mixed with real-world ambient noise.
+- `JGR Solid Earth - 2024 - Zhou - Deep‐Learning Phase‐Onset Picker for Deep Earth Seismology PKIKP Waves.pdf`: The original JGR Solid Earth research paper that served as our benchmark.
 
-### 📊 Datasets
+## 📊 Datasets
 Due to file size limits on GitHub, the datasets are hosted on Dropbox. 
 
 1. **Download the data:** [Click here to download the datasets from Dropbox](https://www.dropbox.com/scl/fo/yhri09ycjr25qt3pwzu6x/AA3JLkJYQAA75-3xK9KlGXY?rlkey=79lx9675hjyu6cgr00qb494mr&st=f516xsfa&dl=0)
