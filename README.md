@@ -23,7 +23,7 @@ Unlike "Black Box" deep learning, our model relies on engineered physical featur
 - **Robustness**: Our model maintains precision even in low Signal-to-Noise (SNR) environments, proving it is ready for real-world messy data.
 
 ## 📁 Repository Contents
-- `Seismic_Profiling.ipynb`: Complete Google Colab pipeline including data cleaning, model tournament, and final benchmarking.
+- `Seismic_PKIKP_Picker.ipynb`: Complete Google Colab pipeline including data cleaning, model tournament, and final benchmarking.
 - `Dropbox link`: The training and testing datasets derived from 300,000 synthetic waveforms mixed with real-world ambient noise.
 - `JGR Solid Earth - 2024 - Zhou - Deep‐Learning Phase‐Onset Picker for Deep Earth Seismology PKIKP Waves.pdf`: The original JGR Solid Earth research paper that served as our benchmark.
 
@@ -55,7 +55,7 @@ Due to file size limits on GitHub, the datasets are hosted on Dropbox.
 2. **Prepare for Colab:** Once downloaded, please upload `features.csv` and `test_split_with_cnn.csv` into the **Content** folder within the **Files** folder (the folder icon on the left sidebar) of the Google Colab environment before running the code.
 
 ## 🛠️ How to Run
-1. Open the `Seismic_Profiling.ipynb` in Google Colab.
+1. Open the `Seismic_PKIKP_Picker.ipynb` in Google Colab.
 2. Upload the CSV files from the `dropbox` link to your Colab session.
 3. Run all cells to reproduce the Model Tournament and final benchmarking results.
 
