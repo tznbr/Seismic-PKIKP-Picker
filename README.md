@@ -38,5 +38,26 @@ Due to file size limits on GitHub, the datasets are hosted on Dropbox.
 2. Upload the CSV files from the `dropbox` link to your Colab session.
 3. Run all cells to reproduce the Model Tournament and final benchmarking results.
 
+## 🛠️ Tech Stack
+
+### **Core Language & Environment**
+- **Python 3.x**: The primary language used for data processing and model development.
+- **Google Colab**: Cloud-based environment utilized for high-performance computation and collaborative development.
+
+### **Machine Learning & Modeling**
+- **XGBoost**: Our primary high-performance Gradient Boosting framework.
+- **Scikit-Learn**: Used for model benchmarking (Linear Regression, Random Forest, etc.), data splitting, and evaluation metrics.
+- **CatBoost & LightGBM**: Benchmarked as State-of-the-Art competitors in the model tournament.
+
+### **Data Manipulation & Analysis**
+- **Pandas**: Utilized for heavy-duty data cleaning, filtering, and CSV manipulation.
+- **NumPy**: Used for efficient numerical arrays and mathematical operations.
+
+### **Visualization & Reporting**
+- **Matplotlib & Seaborn**: Used to create our scientific charts, including the Model Tournament results, Feature Importance, and Stability (KDE) plots.
+
+### **Data Engineering**
+- **Dropbox**: Utilized for remote large-scale data hosting and delivery.
+
 ## 📚 References
 *Zhou, J., Phạm, T.‐S., & Tkalčić, H. (2024). Deep‐learning phase‐onset picker for deep Earth seismology: PKIKP waves. Journal of Geophysical Research: Solid Earth.*
