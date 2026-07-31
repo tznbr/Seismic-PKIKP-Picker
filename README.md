@@ -1,6 +1,8 @@
 # DSB 7500 Final Practicum Project: High-Efficiency Seismic Phase Picking
 **Collaborators:** Momina Zain, Keerthana Reddy, & Taznen Al-Bari
 
+**Disclaimer:** This project was based off the original research paper - JGR Solid Earth - 2024 - Zhou - Deep‐Learning Phase‐Onset Picker for Deep Earth Seismology PKIKP Waves.
+
 ## 🌍 Project Overview
 This project optimizes the automatic detection of **PKIKP seismic waves**—critical signals that travel through the Earth’s inner core. While original research utilized a complex Convolutional Neural Network (CNN), our team benchmarked **XGBoost** and 9 other machine learning models to create a "lighter, faster, and more stable" alternative.
 
