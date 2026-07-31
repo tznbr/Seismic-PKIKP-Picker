@@ -35,7 +35,7 @@ Due to file size limits on GitHub, the datasets are hosted on Dropbox.
 
 ## 🛠️ How to Run
 1. Open the `Seismic_Profiling.ipynb` in [Google Colab](https://colab.research.google.com/).
-2. Upload the CSV files from the `/data` folder to your Colab session.
+2. Upload the CSV files from the `dropbox` link to your Colab session.
 3. Run all cells to reproduce the Model Tournament and final benchmarking results.
 
 ## 📚 References
