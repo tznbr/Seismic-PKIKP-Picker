@@ -32,6 +32,7 @@ Unlike "Black Box" deep learning, our model relies on engineered physical featur
 ### **Core Language & Environment**
 - **Python 3.x**: The primary language used for data processing and model development.
 - **Google Colab**: Cloud-based environment utilized for high-performance computation and collaborative development.
+- **AI Assistance**: **Google Gemini** and **ChatGPT** were utilized for code optimization, technical troubleshooting, and assistance in refining the project's documentation.
 
 ### **Machine Learning & Modeling**
 - **XGBoost**: Our primary high-performance Gradient Boosting framework.
