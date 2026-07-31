@@ -27,6 +27,12 @@ Unlike "Black Box" deep learning, our model relies on engineered physical featur
 - `/data`: The training and testing datasets derived from 300,000 synthetic waveforms mixed with real-world ambient noise.
 - `/paper`: The original JGR Solid Earth research paper that served as our benchmark.
 
+### 📊 Datasets
+Due to file size limits on GitHub, the datasets are hosted on Dropbox. 
+
+1. **Download the data:** [Click here to download the datasets from Dropbox](https://www.dropbox.com/scl/fo/yhri09ycjr25qt3pwzu6x/AA3JLkJYQAA75-3xK9KlGXY?rlkey=79lx9675hjyu6cgr00qb494mr&st=f516xsfa&dl=0)
+2. **Prepare for Colab:** Once downloaded, please upload `features.csv` and `test_split_with_cnn.csv` into the **Content** folder within the **Files** folder (the folder icon on the left sidebar) of the Google Colab environment before running the code.
+
 ## 🛠️ How to Run
 1. Open the `Seismic_Profiling.ipynb` in [Google Colab](https://colab.research.google.com/).
 2. Upload the CSV files from the `/data` folder to your Colab session.
