@@ -55,7 +55,7 @@ Due to file size limits on GitHub, the datasets are hosted on Dropbox.
 2. **Prepare for Colab:** Once downloaded, please upload `features.csv` and `test_split_with_cnn.csv` into the **Content** folder within the **Files** folder (the folder icon on the left sidebar) of the Google Colab environment before running the code.
 
 ## 🛠️ How to Run
-1. Open the `Seismic_Profiling.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open the `Seismic_Profiling.ipynb` in Google Colab.
 2. Upload the CSV files from the `dropbox` link to your Colab session.
 3. Run all cells to reproduce the Model Tournament and final benchmarking results.
 
